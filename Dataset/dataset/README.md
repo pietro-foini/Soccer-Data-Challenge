@@ -18,4 +18,4 @@ The folder structure:
 
 - matches.json: this dataset describes all the matches made available;
 
-- events.json: this dataset describes all the events that occur during each match. Each event refers to a ball touch.
+- events.json: this dataset describes all the events that occur during each match. Each event refers to a ball touch (IT IS IN DRIVE).
