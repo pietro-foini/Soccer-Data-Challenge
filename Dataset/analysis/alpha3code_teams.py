@@ -1,6 +1,6 @@
 # This dictionary contains the code with 3 letters for each team present in the dataset.
-# The codes for club teams have been recovered from different online sources while the codes for the national teams have been 
-# recovered from the Wyscout dataset itself in correspondence of areas information.
+# The codes for club teams have been recovered from different online sources while the codes for the national teams
+# have been recovered from the Wyscout dataset itself in correspondence of areas information.
 
 alpha3code = {"Newcastle United": "NEW", "Celta de Vigo": "CLV", "Espanyol": "ESY",
               "Deportivo Alavés": "ALV", "Levante": "LVT", "Troyes": "TRY", "Getafe": "GET",
@@ -28,7 +28,8 @@ alpha3code = {"Newcastle United": "NEW", "Celta de Vigo": "CLV", "Espanyol": "ES
               "Sweden": "SWE", "Tunisia": "TUN", "Brazil": "BRA", "Germany": "DEU", "Albania": "ALB", "Romania": "ROU",
               "Ukraine": "UKR", "Morocco": "MAR", "Slovakia": "SVK", "Colombia": "COL", "Panama": "PAN",
               "Australia": "AUS", "Argentina": "ARG", "Northern Ireland": "XNI", "Portugal": "PRT",
-              "Belgium": "BEL", "Denmark": "DNK", "Uruguay": "URY", "Wales": "XWA", "Costa Rica": "CRI", "England": "XEN",
+              "Belgium": "BEL", "Denmark": "DNK", "Uruguay": "URY", "Wales": "XWA", "Costa Rica": "CRI",
+              "England": "XEN",
               "Egypt": "EGY", "Japan": "JPN", "Iran": "IRN", "Austria": "AUT", "Iceland": "ISL", "Croatia": "HRV",
               "Mexico": "MEX", "Republic of Ireland": "IRL", "Czech Republic": "CZE", "Senegal": "SEN",
               "Italy": "ITA", "Peru": "PER", "France": "FRA", "Saudi Arabia": "SAU", "Spain": "ESP", "Serbia": "SRB",
