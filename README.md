@@ -32,6 +32,8 @@ kicking in! 😊
 The objective of the competition was to identify football teams' playing styles. This was achieved by leveraging a 
 large dataset of match events from the top 5 European leagues and 2 international competitions.
 
+<img src="assets/european_clubs.jpg" alt="Clubs" width="500">
+
 ## Installation
 
 **Python 3.10 is required**
