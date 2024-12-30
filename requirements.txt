@@ -1,0 +1,9 @@
+pandas
+plotly
+pillow
+matplotlib
+numpy
+seaborn
+tqdm
+scikit-learn
+notebook

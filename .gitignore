@@ -8,3 +8,5 @@ events/
 # Compiled source #
 ###################
 *.ipynb_checkpoints
+
+venv/
