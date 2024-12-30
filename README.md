@@ -14,7 +14,10 @@ The winning team was awarded a €5,000 prize.
 
 Our team, **Complessati Bomber**, won the title! 🥳😊
 
-<img src="assets/festival_dello_sport.jpg" alt="Festival dello Sport" width="400"/>
+<figure>
+  <img src="assets/festival_dello_sport.jpg" alt="Festival dello Sport" width="500">
+  <figcaption>Creator: FOTO NICOLA ECCHER; Copyright: info@fotonicolaeccher.it</figcaption>
+</figure>
 
 Here the final [presentation](./assets/presentation.pdf)!
 
@@ -33,9 +36,20 @@ large dataset of match events from the top 5 European leagues and 2 internationa
 
 **Python 3.10 is required**
 
-Make sure to create a [virtual env](https://docs.python.org/3/library/venv.html).
+**Example**
 
-Now activate it, cd into the project repo and run the following command:
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+```
+
+Run the following command:
 
 > pip install -r requirements.txt
 
