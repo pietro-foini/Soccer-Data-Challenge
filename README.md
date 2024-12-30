@@ -12,14 +12,14 @@ analytical problem related to football, using the largest game event dataset eve
 Finalists presented their work to a panel of professionals from the worlds of football and Big Data. 
 The winning team was awarded a €5,000 prize.
 
-Our team, **Complessati Bomber**, won the title! 🥳😊
+Our team, **Complessati Bomber**, won the title! 🥳😊 
+
+Here the final [presentation](./assets/presentation.pdf)! 💃
 
 <figure>
   <img src="assets/festival_dello_sport.jpg" alt="Festival dello Sport" width="500">
   <figcaption>Creator: FOTO NICOLA ECCHER; Copyright: info@fotonicolaeccher.it</figcaption>
 </figure>
-
-Here the final [presentation](./assets/presentation.pdf)!
 
 ## Premise
 
